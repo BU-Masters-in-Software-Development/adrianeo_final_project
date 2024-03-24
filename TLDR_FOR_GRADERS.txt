@@ -1,0 +1,18 @@
+For Grading purposes, I have generated a "MOCK_DATA.csv" file to make testing
+my application quick and painless, their are also unit tests already
+incorporated within each class and pre-defined and loaded with the
+test_transactions.csv file as well...
+
+Steps to run are as follows:
+
+main.py
+Transaction.py
+FinanceManager.py
+
+Ensure that you have MOCK_DATA.csv in the same directory you are running the
+source code.
+
+Last but not least...
+
+Citing my sources:
+Test Data generated from >> https://www.mockaroo.com
